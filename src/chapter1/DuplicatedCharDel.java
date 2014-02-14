@@ -3,7 +3,7 @@ package chapter1;
 public class DuplicatedCharDel {
 
     /**
-     * @param args
+     * this is my solution for puzzle 1.3
      */
     public static void main(String[] args) {
 
